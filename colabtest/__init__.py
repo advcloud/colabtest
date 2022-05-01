@@ -1,2 +1,2 @@
 
-from .functions import webcam2numpy, imshow, videoGrabber
+from functions import webcam2numpy, imshow, videoGrabber
